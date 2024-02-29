@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="Department 1">
+    <Unit Name="John Doe 1" Phone1="1101" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 2" Phone1="1102" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 3" Phone1="1103" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 4" Phone1="1104" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 5" Phone1="1105" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Department 2">
+    <Unit Name="John Doe 1" Phone1="2101" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 2" Phone1="2102" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 3" Phone1="2103" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 4" Phone1="2104" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 5" Phone1="2105" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Department 3">
+    <Unit Name="John Doe 1" Phone1="3101" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 2" Phone1="3102" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 3" Phone1="3103" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 4" Phone1="3104" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Doe 5" Phone1="3105" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>
